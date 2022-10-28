@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "name": "Web Design & Development"
+  },
+  {
+    "id": "02",
+    "name": "Apps  Design & Development"
+  },
+  {
+    "id": "03",
+    "name": "Server Side Related"
+  },
+  {
+    "id": "04",
+    "name": "Database Development Course"
+  },
+  {
+    "id": "05",
+    "name": "Game Development Course"
+  },
+  {
+    "id": "06",
+    "name": "Others Course"
+  }
+]
